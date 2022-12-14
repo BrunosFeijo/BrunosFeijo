@@ -12,10 +12,10 @@ public class Main {
         Team team2 = new Team("Brasil");
         Game game = new Game(team,team2);
 
-        for (int i = 0; i < goals.nextInt();i++){
+        for (int i = 0; i < goals.nextInt(6);i++){
             game.goalA();
         }
-        for (int i = 0; i < goals.nextInt();i++){
+        for (int i = 0; i < goals.nextInt(6);i++){
             game.goalB();
         }
 
