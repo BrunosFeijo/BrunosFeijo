@@ -8,7 +8,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         Random goals = new Random();
-        Team team = new Team("Alemanha");
+        Team team = new Team("Argentina");
         Team team2 = new Team("Brasil");
         Game game = new Game(team,team2);
 
