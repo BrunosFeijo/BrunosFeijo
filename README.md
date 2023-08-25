@@ -14,6 +14,7 @@ Experiência em análise de dados usando VBA (excel) na Claro Brasil S.A por 9 a
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunosFeijo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true) 
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunosFeijo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Repositórios Principais
