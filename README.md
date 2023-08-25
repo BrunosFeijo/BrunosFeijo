@@ -1,6 +1,6 @@
 
-# BrunosFeijo
-Dev BackEnd atualmente estudando Java!
+# Bruno Feijo
+Dev BackEnd, atualmente estudando Java!
 Experiência em análise de dados usando VBA (excel) na Claro Brasil S.A por 9 anos.
 
 ## Contatos
